@@ -1,5 +1,5 @@
 ﻿# CliSAT
-This site contains at present the 501 dataset of structured clique instances tested by the algorithm **CliSAT** for the Maximum Clique Problem (MCP) described in the following paper:
+This site contains at present the 501 dataset of structured clique instances tested by the algorithm **CliSAT** for the **Maximum Clique Problem (MCP)** described in the following paper:
 
 *A SAT-based exact algorithm for hard maximum clique problems* by Pablo San Segundo, Fabio Furini, David Alvarez and Panos Pardalos (2022), (currently under review). 
 
