@@ -5,6 +5,6 @@ This site contains at present the 501 dataset of structured clique instances tes
 
 The instances employed in the tests are provided in the *instances* folder, in their original format.
 
-In the future, a Linux release of **CLISAT** will be provided.
+In the near future, a Linux release of **CLISAT** will be provided.
 
 
