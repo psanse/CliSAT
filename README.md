@@ -1,2 +1,2 @@
 # CliSAT
-An Exact algorithm for the MCP
+A state-of-the-art exact algorithm for the Maximum Clique Problem
