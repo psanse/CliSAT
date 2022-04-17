@@ -20,7 +20,7 @@ Run the binary from the command line with the following parametes: name of the g
 
 CliSAT considers two initial vertex orderings from the literature: DEG-SORT (based on vertex degree) and COLOR-SORT (based on determining an independent set partition). 
 
-COLOR-SORT is expected to perform well in those instances where the size of the independent set partition is close to the clique number. Alternatively, DEG-SORT should be preferable (see article).
+COLOR-SORT is expected to perform well in those instances where the size of the independent set partition is close to the clique number. Otherwise, DEG-SORT should be preferable (see article).
 
 %%%%%%%%%%%%
 %%
