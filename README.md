@@ -5,6 +5,6 @@ This repository contains at present the 501 dataset of structured clique instanc
 
 The instances employed in the tests are inside the *instances* folder in their original format.
 
-A Linux release of **CliSAT** is provided in the *bin* folder, together a comparison performance report (which serves as appendix to the article). 
+A Linux release of **CliSAT** is provided in the *bin* folder, together with  a comparison performance report (which serves as appendix to the article). 
 
 
