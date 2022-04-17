@@ -37,10 +37,10 @@ selects the COLOR-SORT ordering of vertices and times out if the instance keller
 The resulting output is: 
 	
 *****************************
-DATA:../../../../CliSAT_inst/dimacs/brock200_1.clq       N:200   M:14834         D:0.745427
+DATA:../../../../CliSAT_inst/dimacs/keller5.clq  N:776   M:225990        D:0.751546
 TIME_LIMIT:100
 TIME_LIMIT_HEUR:0.05
-SORTING:1
+SORTING:2
 AMTS:1
 *****************************
 
@@ -48,8 +48,9 @@ parsing....
 preprocessing....
 solving....
 *****************************
-102 31 103 174 143 3 198 121 137 25 131 47 179 82 106 99 190 45 119 136 40  [21]
-omega:21        ts(s):0.164387  tp(s):0.051822  tr(s):1e-05     steps:6459
+716 760 685 663 343 586 481 540 634 668 606 285 326 271 490 457 428 149 134 203 239 183 8 41 366 74 48  [27]
+omega:27        ts(s):23.212    tp(s):0.131353  tr(s):5e-06     steps:222737
+
 
 where:
 
