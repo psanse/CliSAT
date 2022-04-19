@@ -14,7 +14,7 @@ Compiled with Ubuntu 16.04.7 LTS
 %%
 %%%%%%%%%%%
 
-Run the binary from the command line with the following parametes: name of the graph (in DIMACS format), time limit (in seconds), vertex ordering parameter (1 (DEG-SORT), 2 (COLOR-SORT):
+Run the binary from the command line with the following parameters: name of the graph (in DIMACS format), time limit (in seconds), vertex ordering parameter (1 (DEG-SORT), 2 (COLOR-SORT):
 
 ./CliSAT <filename> <time limit> <ordering>
 
