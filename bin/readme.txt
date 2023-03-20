@@ -1,6 +1,6 @@
 This folder contains a linux binary release for the exact algorithm CliSAT for the maximum clique problem.
 
-Article: CliSAT:A SAT-based exact algorithm for hard maximum clique problems by Pablo San Segundo, Fabio Furini, David Alvarez and Panos Pardalos (2022), (currently under review).
+Article: CliSAT:A SAT-based exact algorithm for hard maximum clique problems by Pablo San Segundo, Fabio Furini, David Alvarez and Panos Pardalos, European Journal of Operational Research, 307:3, (2023), pp. 1008-1025 ([available here](https://www.sciencedirect.com/science/article/pii/S0377221722008165)). 
 
 http://www.optimization-online.org/DB_HTML/2022/04/8874.html
 
