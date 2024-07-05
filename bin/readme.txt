@@ -1,4 +1,4 @@
-This folder contains a linux binary release for the exact algorithm CliSAT for the maximum clique problem.
+This folder contains a linux binary release for the exact algorithm CliSAT for the maximum clique problem (a second binary CliSAT_ubuntu_16.04 has been added for older linux sytems).
 
 Article: CliSAT:A SAT-based exact algorithm for hard maximum clique problems by Pablo San Segundo, Fabio Furini, David Alvarez and Panos Pardalos, European Journal of Operational Research, 307:3, (2023), pp. 1008-1025. 
 
@@ -59,3 +59,4 @@ ts(s): search time (seconds)
 tp(s): pre-processing time (seconds)
 tr(s): parsing time (seconds)
 steps: number of recursive calls to CliSAT
+
