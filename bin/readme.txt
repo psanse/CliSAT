@@ -5,8 +5,8 @@ Article: CliSAT:A SAT-based exact algorithm for hard maximum clique problems by 
 http://www.optimization-online.org/DB_HTML/2022/04/8874.html
 
 
-Date of release@17/04/2022
-Compiled with Ubuntu 16.04.7 LTS
+Date of release@05/07/2024
+Compiled with Ubuntu 22.04.3 LTS
 
 %%%%%%%%%%%%
 %%
