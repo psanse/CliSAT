@@ -5,7 +5,7 @@ This repository contains the testbed of 501 structured clique instances employed
 
 The instances employed in the tests are in their original format inside the *instances* folder.
 
-Windows and Linux releases of **CliSAT** are provided in the *bin* folder, together with  a comparison performance report file *CliSAT.appendix.pdf* (which serves as an appendix to the article). 
+Windows and Linux releases of **CliSAT** are provided in the *bin* folder, together with a comparison performance report file *CliSAT.appendix.pdf* (also an appendix to the referred publication). 
 
 
 
