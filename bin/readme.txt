@@ -4,9 +4,10 @@ Article: CliSAT:A SAT-based exact algorithm for hard maximum clique problems by 
 
 http://www.optimization-online.org/DB_HTML/2022/04/8874.html
 
-
 Date of release@06/07/2024
 Compiled with Ubuntu 22.04.3 LTS
+
+Note: Many researchers have asked for a Windows binary of CliSAT. One such binary - CliSAT_2025_05_21.exe has now been released to attend this demand. Instructions are the same as for the Linux Binary.
 
 %%%%%%%%%%%%
 %%
