@@ -1,13 +1,13 @@
-This folder contains a linux binary release for the exact algorithm CliSAT for the maximum clique problem (a second binary CliSAT_2024_07_06_ub16.04 has been added for compatibility with older linux sytems).
+This directory includes the Linux binary distribution of CliSAT, an exact algorithm for the Maximum Clique Problem (a second binary, %CliSAT_2024_07_06_ub16.04%, has been added for compatibility with older Linux systems).
 
-Article: CliSAT:A SAT-based exact algorithm for hard maximum clique problems by Pablo San Segundo, Fabio Furini, David Alvarez and Panos Pardalos, European Journal of Operational Research, 307:3, (2023), pp. 1008-1025. 
+Article: CliSAT: A SAT-based exact algorithm for hard maximum clique problems by Pablo San Segundo, Fabio Furini, David Alvarez and Panos Pardalos, European Journal of Operational Research, 307:3, (2023), pp. 1008-1025. 
 
 http://www.optimization-online.org/DB_HTML/2022/04/8874.html
 
 Date of release@06/07/2024
 Compiled with Ubuntu 22.04.3 LTS
 
-Note: Many researchers have asked for a Windows binary of CliSAT. One such binary - CliSAT_2025_05_21.exe has now been released to attend this demand. Instructions are the same as for the Linux Binary.
+Note: Many researchers have asked for a Windows binary of CliSAT. One such binary, CliSAT_2025_05_21.exe, has now been released to attend to this demand. Instructions are the same as for the Linux Binary.
 
 %%%%%%%%%%%%
 %%
@@ -15,15 +15,15 @@ Note: Many researchers have asked for a Windows binary of CliSAT. One such binar
 %%
 %%%%%%%%%%%
 
-Run the binary from the command line with the following parameters: name of the graph (in DIMACS format), time limit (in seconds), vertex ordering parameter (1 (DEG-SORT), 2 (COLOR-SORT), heuristic parameter (0 - no heuristic, 1 - AMTS heuristic 0.05s):
+Run the binary from the command line with the following parameters: name of the graph (in DIMACS format), time limit (in seconds), vertex ordering parameter (1 (DEG-SORT), 2 (COLOR-SORT), and heuristic parameter (0 - no heuristic, 1 - AMTS heuristic 0.05s):
 
 ./CliSAT_2024_07_06 <filename> <time limit> <ordering> <heuristic>
 
 CliSAT considers two initial vertex orderings from the literature: DEG-SORT (based on vertex degree) and COLOR-SORT (based on determining an independent set partition). 
 
-COLOR-SORT is expected to perform well in those instances where the size of the independent set partition is close to the clique number. Otherwise, DEG-SORT should be preferable (see article).
+COLOR-SORT is expected to perform well in those instances where the size of the independent set partition is close to the clique number. Otherwise, DEG-SORT is preferable (see article).
 
-CliSAT also employs the AMTS hueuristic to determine a large initial clique (see article). 
+CliSAT also employs the AMTS heuristic to determine a large initial clique (see article). 
 
 %%%%%%%%%%%%
 %%
