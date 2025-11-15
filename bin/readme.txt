@@ -1,4 +1,4 @@
-This directory includes the Linux binary distribution of CliSAT, an exact algorithm for the Maximum Clique Problem (a second binary, %CliSAT_2024_07_06_ub16.04%, has been added for compatibility with older Linux systems).
+This directory includes the Linux binary distribution of CliSAT, an exact algorithm for the Maximum Clique Problem (a second binary, CliSAT_2024_07_06_ub16.04, has been added for compatibility with older Linux systems).
 
 Article: CliSAT: A SAT-based exact algorithm for hard maximum clique problems by Pablo San Segundo, Fabio Furini, David Alvarez and Panos Pardalos, European Journal of Operational Research, 307:3, (2023), pp. 1008-1025. 
 
